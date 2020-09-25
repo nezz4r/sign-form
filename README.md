@@ -1,2 +1,2 @@
 # sign-form
-UX Sign In Form
+Sign-in form designed with UX in mind.
